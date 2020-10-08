@@ -20,3 +20,4 @@ You can watch the tutorial for this app.
 
 https://www.youtube.com/watch?v=VihRQ_uhHtE&t=3325s
 
+# movie-mern-app
